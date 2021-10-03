@@ -111,3 +111,5 @@ C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.csproj.GenerateResource.c
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.initialModel.resources
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddIsSubscribedToNewsLetter.resources
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddMembershipType.resources
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.ApplyAnnotationsToCustomerName.resources
