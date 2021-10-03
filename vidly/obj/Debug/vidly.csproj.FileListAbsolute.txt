@@ -106,3 +106,6 @@ C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.csproj.CoreCompileInputs.
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.csproj.CopyComplete
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.dll
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.pdb
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.InitialCreate.resources
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.csproj.GenerateResource.cache
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.initialModel.resources
