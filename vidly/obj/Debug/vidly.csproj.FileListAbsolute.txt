@@ -109,3 +109,5 @@ C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.pdb
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.InitialCreate.resources
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.csproj.GenerateResource.cache
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.initialModel.resources
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddIsSubscribedToNewsLetter.resources
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddMembershipType.resources

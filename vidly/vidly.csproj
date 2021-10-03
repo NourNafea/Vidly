@@ -183,11 +183,20 @@
     <Compile Include="Migrations\202110031356138_initialModel.Designer.cs">
       <DependentUpon>202110031356138_initialModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202110031415016_AddIsSubscribedToNewsLetter.cs" />
+    <Compile Include="Migrations\202110031415016_AddIsSubscribedToNewsLetter.Designer.cs">
+      <DependentUpon>202110031415016_AddIsSubscribedToNewsLetter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202110031453537_AddMembershipType.cs" />
+    <Compile Include="Migrations\202110031453537_AddMembershipType.Designer.cs">
+      <DependentUpon>202110031453537_AddMembershipType.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\MembershipType.cs" />
     <Compile Include="Models\Movie.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
@@ -278,6 +287,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202110031356138_initialModel.resx">
       <DependentUpon>202110031356138_initialModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202110031415016_AddIsSubscribedToNewsLetter.resx">
+      <DependentUpon>202110031415016_AddIsSubscribedToNewsLetter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202110031453537_AddMembershipType.resx">
+      <DependentUpon>202110031453537_AddMembershipType.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
