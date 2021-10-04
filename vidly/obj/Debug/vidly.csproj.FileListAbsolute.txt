@@ -113,3 +113,5 @@ C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddIsSubscribe
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddMembershipType.resources
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.PopulateMembershipTypes.resources
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddNameProperty.resources
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddNamePropertyReq.resources

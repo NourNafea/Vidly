@@ -199,6 +199,14 @@
     <Compile Include="Migrations\202110032015250_ApplyAnnotationsToCustomerName.Designer.cs">
       <DependentUpon>202110032015250_ApplyAnnotationsToCustomerName.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202110041606459_AddNameProperty.cs" />
+    <Compile Include="Migrations\202110041606459_AddNameProperty.Designer.cs">
+      <DependentUpon>202110041606459_AddNameProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202110041611237_AddNamePropertyReq.cs" />
+    <Compile Include="Migrations\202110041611237_AddNamePropertyReq.Designer.cs">
+      <DependentUpon>202110041611237_AddNamePropertyReq.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -307,6 +315,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202110032015250_ApplyAnnotationsToCustomerName.resx">
       <DependentUpon>202110032015250_ApplyAnnotationsToCustomerName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202110041606459_AddNameProperty.resx">
+      <DependentUpon>202110041606459_AddNameProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202110041611237_AddNamePropertyReq.resx">
+      <DependentUpon>202110041611237_AddNamePropertyReq.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
