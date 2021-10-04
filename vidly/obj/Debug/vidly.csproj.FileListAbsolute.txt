@@ -116,3 +116,7 @@ C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.ApplyAnnotatio
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddNameProperty.resources
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddNamePropertyReq.resources
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddBirthDate.resources
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddGenre.resources
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.Genres.resources
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.InsertMovieData.resources
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.moviesDetails.resources
