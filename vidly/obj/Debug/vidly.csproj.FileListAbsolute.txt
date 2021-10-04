@@ -115,3 +115,4 @@ C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.PopulateMember
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.ApplyAnnotationsToCustomerName.resources
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddNameProperty.resources
 C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddNamePropertyReq.resources
+C:\Users\Nour\source\repos\vidly\vidly\obj\Debug\vidly.Migrations.AddBirthDate.resources
