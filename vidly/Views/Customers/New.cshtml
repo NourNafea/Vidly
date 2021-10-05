@@ -1,4 +1,4 @@
-﻿@model vidly.Models.Customer
+﻿@model vidly.ViewModels.NewCustomerViewModel
 @{
     ViewBag.Title = "New";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -8,22 +8,33 @@
 @using (Html.BeginForm("Create", "Customers"))
 {
     <div class="form-group">
-        @Html.LabelFor(m => m.Name)
-        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        @Html.LabelFor(m => m.Customer.Name)
+        @Html.TextBoxFor(m => m.Customer.Name, new { @class = "form-control" })
     </div>
 
     <div class="form-group">
-        @Html.LabelFor(m => m.BirthDateTime)
-        @Html.TextBoxFor(m => m.BirthDateTime, new { @class = "form-control" })
+        @Html.LabelFor(m => m.Customer.BirthDateTime)
+        @Html.TextBoxFor(m => m.Customer.BirthDateTime, new { @class = "form-control" })
     </div>
 
     <div class="checkbox">
-        
+
 
         <label>
-            @Html.CheckBoxFor(m => m.IsSubscribedToNewsLetter) Subscribed To News Letter?
+            @Html.CheckBoxFor(m => m.Customer.IsSubscribedToNewsLetter) Subscribed To News Letter?
         </label>
     </div>
 
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.MembershipTypeId)
+        @Html.DropDownListFor(
+            m => m.Customer.MembershipTypeId,
+            new SelectList(Model.MembershipTypes, 
+                "Id",
+                "Name"),
+            "Select Membership Type",
+            new { @class = "form-control" })
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
 
 }
